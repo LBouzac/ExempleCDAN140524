@@ -1,0 +1,13 @@
+package com.example.exemplecdan140524;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ExempleCdan140524ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
